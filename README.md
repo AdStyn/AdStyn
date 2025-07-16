@@ -14,7 +14,7 @@
 
 ### Skills
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -44,6 +44,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adstynbusiness@gmail.com) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://portfolio2025-11hs.vercel.app) [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_adstyn) [![TikTok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@adstynbusines) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ady-setiyawan-943778327/)
 
-<img src="https://raw.githubusercontent.com/AdStyn/AdStyn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AdStyn/AdStyn/output/dist/snake.svg" alt="Snake animation" />
 
 ###
