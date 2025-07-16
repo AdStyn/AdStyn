@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mysql,figma,vscode&perline=11" alt="My Skills" height="50"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,mysql,figma,vscode&perline=12" alt="My Skills" height="50"/>
   </a>
   <img src="https://camo.githubusercontent.com/88aebe3aa95291442aab57bd50cad593c7f68fbbd7f723efc5dfcd5428c0966d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63616e76612f63616e76612d6f726967696e616c2e737667" alt="Canva" height="50"/>
 </p>
