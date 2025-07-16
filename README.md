@@ -1,5 +1,5 @@
 ![my](img/header.png)
-test
+
 ![activity](img/activity.jpeg)
 
 ### Skills
