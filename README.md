@@ -14,10 +14,10 @@
 
 <div align="center">
   <a href="https://github.com/AdStyn">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdStyn&show_icons=true&theme=vision-friendly-dark" width="400" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AdStyn&show_icons=true&theme=vision-friendly-dark&hide_border=false" height="150" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdStyn&layout=compact&langs_count=6&theme=midnight-purple" width="400" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdStyn&layout=compact&langs_count=6&theme=midnight-purple&hide_border=false" height="150" alt="Top Languages" />
   </a>
 </div>
 
