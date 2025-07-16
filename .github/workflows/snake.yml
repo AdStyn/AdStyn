@@ -17,10 +17,17 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/sadnk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=custom&color_snake=#f97316&color_dots=#250052,#250052,#250052,#fff3e0,#ffb74d,#e65100
+          outputs: dist/snake.svg?palette=custom&color_snake=#f97316&color_dots=#250052,#250052,#250052,#FB8C00,#FFCC80,#FFF3E0
+          color_palette: |
+            250052
+            250052
+            250052
+            FB8C00
+            FFCC80
+            FFF3E0
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
