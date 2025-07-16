@@ -1,4 +1,4 @@
-![my](gambar/header.png)
+<h2>Hi 👋! My name is Ady and I'm a Frontend Developer, from Indonesia!</h2>
 
 ### Activity
 
