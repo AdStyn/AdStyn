@@ -1,6 +1,5 @@
-![my](img/header.png)
-
-![activity](img/activity.jpeg)
+![my](https://raw.githubusercontent.com/AdStyn/AdStyn/main/img/header.png)
+![activity](https://raw.githubusercontent.com/AdStyn/AdStyn/main/img/activity.jpeg)
 
 ### Skills
 
