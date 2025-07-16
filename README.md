@@ -7,6 +7,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdStyn&layout=compact&langs_count=6&theme=midnight-purple&hide_border=false" height="150" alt="Top Languages" />
   </a>
 </div>
+
 ### Activity
 
 ![activity](gambar/activity.png)
