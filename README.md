@@ -2,7 +2,7 @@
 
 ### Activity
 
-![activity](gambar/activity.jpeg)
+![activity](gambar/activity.png)
 
 ### Skills
 
