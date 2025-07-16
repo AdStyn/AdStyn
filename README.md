@@ -1,6 +1,6 @@
-![my](img/header.png)
+![my](gambar/header.png)
 
-![activity](img/activity.jpeg)
+![activity](gambar/activity.jpeg)
 
 ### Skills
 
